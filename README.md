@@ -86,8 +86,8 @@ ainda não pronto
 
 Equipe responsável pelo desenvolvimento do projeto
 
-| [<img src="./img/lara.png" width=115><br><sub>Lara Pereira</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Priscila Przezdziecki</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Raquel da Silva</sub>](https://github.com/Diana-ops) | [<img src="./ApuriShare-doc/img/estela.jpeg" width=115><br><sub>Estela Ramos</sub>](https://github.com/Diana-ops) | [<img src="./ApuriShare-doc/img/davi.jpeg" width=115><br><sub>Davi Bernardo</sub>](https://github.com/Diana-ops) |
-| :---: | :---: | :---: | :---:| :---:
+| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---:
 
 ## Licença 
 
