@@ -5,31 +5,34 @@
 <p/>
   
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JetBrains%20Fleet-black?style=for-the-badge&logo=jetbrains"/>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E2%9C%85%20Progresso-1%25-green?style=for-the-badge&color=green"/>
   <img src="https://img.shields.io/badge/%F0%9F%99%8D%E2%80%8D%E2%99%82%EF%B8%8FColaboradores-3-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/last-commit/giveyiin/EcoTrilhaIFSC?display_timestamp=committer&style=for-the-badge"/>
 </p>
+<hr>
 
-### Tópicos 
+## Tópicos 
 
-:small_blue_diamond: [Descrição do Projeto](#descrição-do-projeto)
+↳ [Descrição do Projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Funcionalidades do Projeto](#funcionalidades)
+↳ [Funcionalidades do Projeto](#funcionalidades)
 
-:small_blue_diamond: [Pré-Requisitos](#pré-requisitos)
+↳ [Pré-Requisitos](#pré-requisitos)
 
-:small_blue_diamond: [FAQ](#faq)
+↳ [FAQ](#faq)
 
 ## Descrição do projeto 
 
 <p align="justify">
-  O Eco Trilha IFSC...
+  O <b> Eco Trilha IFSC </b> é um aplicativo mobile feito para fornecer uma maior acessibilidade, orientações e informações úteis para pessoas com deficiências visuais durante a realização das trilhas do <b>Câmpus Jaraguá do Sul - Rau</b> no <b>Instituto Federal de Santa Catarina</b>. O aplicativo faz uso de QR Codes colocados em pontos desejados da trilha para transcrever pontos importantes da trilha, esses QR Codes são então escaneados pelo usuário, e iniciará o áudio com as informações fornecidas por um Administrador. Os QR Codes podem ser criados a qualquer momento por um Administrador, que irá inserir o texto a ser transcrevido e poderá também editar textos já vinculados a um QR Code.
 </p>
 
 ## Funcionalidades
