@@ -1,7 +1,7 @@
 <h1 align="center">Eco Trilha IFSC</h1>
 
 <p align="center">
-  <img src="https://github.com/Megwazi/assets/blob/main/Eco%20Trilha%20IFSC.png" width=400 />
+  <img src="https://github.com/Megwazi/assets/blob/main/Eco-Trail-IFSC.png" width=400 />
 <p/>
   
 <p align="center">
@@ -11,22 +11,25 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
- <img src="https://img.shields.io/badge/%E2%9C%85%20Progresso-1%25-green?style=for-the-badge&color=green"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9C%85%20Progresso-1%25-green?style=for-the-badge&color=green"/>
+  <img src="https://img.shields.io/badge/%F0%9F%99%8D%E2%80%8D%E2%99%82%EF%B8%8FColaboradores-3-red?style=for-the-badge"/>
+</p>
 
 ### Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+:small_blue_diamond: [Descrição do Projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
+:small_blue_diamond: [Funcionalidades do Projeto](#funcionalidades)
 
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos-books)
+:small_blue_diamond: [Pré-Requisitos](#pré-requisitos)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+:small_blue_diamond: [FAQ](#faq)
 
 ## Descrição do projeto 
 
 <p align="justify">
-  O ApuriShare é uma plataforma web de criação de atividades, que surgiu com princípio de ajudar os estudantes que se deparam com desafios educacionais contemporâneos, por conta do método de ensino usado em sala de aula, que está ultrapassado. O objetivo deste projeto é desenvolver uma plataforma web para a criação de atividades em sala de aula explorando a metodologia ativa Think-Pair-Share (TPS).
+  O Eco Trilha IFSC...
 </p>
 
 ## Funcionalidades
