@@ -1,4 +1,4 @@
-<h1 align="center">Eco Trilha IFSC</h1>
+<h1 align="center">Eco Trilha IFSC - Rau</h1>
 
 <p align="center">
   <img src="https://github.com/Megwazi/assets/blob/main/Eco-Trail-IFSC.png" width=400 />
