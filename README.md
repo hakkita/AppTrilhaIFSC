@@ -37,29 +37,20 @@
 
 ## Funcionalidades
 
-:heavy_check_mark: O sistema deve permitir ao usuário cadastrar-se no site  
+:heavy_check_mark: O sistema deve escanear QR Code e apresentar as informações do objeto;  
 
-:heavy_check_mark: O sistema deve permitir ao usuário entrar em uma conta existente  
+:heavy_check_mark: O sistema deve aceitar códigos por extenso; 
 
-:heavy_check_mark: O sistema deve permitir ao usuário entrar em uma sala  
+:heavy_check_mark: O sistema deve apresentar uma opção de transcrição por áudio;
 
-:heavy_check_mark: O sistema  deve permitir ao usuário/criador criar uma sala
+:heavy_check_mark: O sistema deve ter conexão com banco de dados web;
 
-:heavy_check_mark: O sistema deve permitir ao usuário/criador iniciar a atividade
+:heavy_check_mark: O sistema deve permitir ao adm gerenciar objetos no banco de dados;
 
-:heavy_check_mark: O sistema deve permitir ao usuário/aluno visualizar a atividade
+:heavy_check_mark: O sistema deve gerar um QR Code após criar um novo objeto no banco de dados;
 
-:heavy_check_mark: O sistema deve permitir ao usuário/aluno enviar resposta
+:heavy_check_mark: O sistema deve disponibilizar o QR Code gerado para futura impressão;
 
-:heavy_check_mark: O sistema deve permitir ao usuário/aluno a visualizar a atividade de seu par
-
-:heavy_check_mark: O sistema deve permitir ao usuário/aluno visualizar a resposta do criador
-
-:heavy_check_mark: O sistema deve permitir ao usuário/criador iniciar a atividade 
-
-
-
-<span style="color: red;">Liste todas as linguagens, dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação</span>
 
 ## Como rodar a aplicação :arrow_forward:
 Ainda não pronto
