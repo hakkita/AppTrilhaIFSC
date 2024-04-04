@@ -112,7 +112,7 @@ Ainda não pronto
 Coloque um passo a passo para executar os testes
 
 ```
-ainda não pronto
+Ainda não pronto
 ```
 
 ## Desenvolvedores e Contribuintes :octocat:
@@ -120,10 +120,10 @@ ainda não pronto
 Equipe responsável pelo desenvolvimento do projeto
 
 | :---: | :---: | :---: | :---: |
-| :---: | :---: | :---: | :---: | :---:
+| :---: | :---: | :---: | :---: | :---: |
 
 ## Licença 
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright :copyright: 2024 - Eco Trilha IFSC Rau
