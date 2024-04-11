@@ -5,23 +5,26 @@
 <p/>
   
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JetBrains%20Fleet-black?style=for-the-badge&logo=jetbrains"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+  <!-- IOS Removido temporariamente <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>-->
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9C%85%20Progresso-10%25-green?style=for-the-badge&color=green"/>
-  <img src="https://img.shields.io/badge/%F0%9F%99%8D%E2%80%8D%E2%99%82%EF%B8%8FColaboradores-3-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/last-commit/giveyiin/EcoTrilhaIFSC?display_timestamp=committer&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/10%25-%2334A853?style=for-the-badge&label=Progresso&labelColor=black"/>
+  <img src="https://img.shields.io/badge/3-%2334A853?style=for-the-badge&label=Colaboradores&labelColor=black"/>
+  <img src="https://img.shields.io/github/last-commit/hakkita/EcoTrilhaIFSC?style=for-the-badge&labelColor=black&color=%2334A853"/>
 </p>
 <hr>
 
@@ -54,7 +57,7 @@
 
 Além disso, o aplicativo oferece uma opção de acessibilidade que transcreve todo o conteúdo da tela em áudio, utilizando a tecnologia <b>Text-to-Speech.</b>
 
-Os registros no aplicativo serão feitos exclusivamente por <b>Administradores</b>, que têm a capacidade de gerar automaticamente os QR Codes durante o processo de criação de registros. Os administradores também têm a capacidade de editar os registros a qualquer momento através do painel de gerenciamento.
+Os registros no aplicativo serão feitos exclusivamente por <b>Administradores</b>, que possuem a opção de gerar automaticamente os QR Codes durante o processo de criação de registros. Os administradores também possuem a opção de editar os registros a qualquer momento através do painel de gerenciamento.
 </p>
 
 ## Funcionalidades
