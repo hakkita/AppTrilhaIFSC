@@ -52,7 +52,7 @@
   
   ↳ Mapa;
   
-  ↳ Descrição.
+  ↳ Descrição;
 </b>
 
 Além disso, o aplicativo oferece uma opção de acessibilidade que transcreve todo o conteúdo da tela em áudio, utilizando a tecnologia <b>Text-to-Speech.</b>
