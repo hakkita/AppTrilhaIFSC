@@ -1,7 +1,7 @@
 <h1 align="center">Eco Trilha IFSC - Rau</h1>
 
 <p align="center">
-  <img src="https://github.com/Megwazi/assets/blob/main/Eco-Trail-IFSC.png" width=400 />
+  <img src="https://github.com/Megwazi/assets/blob/main/Design%20sem%20nome.png" width=400 />
 <p/>
   
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/10%25-%2334A853?style=for-the-badge&label=Progresso&labelColor=black"/>
+  <img src="https://img.shields.io/badge/17%25-%2334A853?style=for-the-badge&label=Progresso&labelColor=black"/>
   <img src="https://img.shields.io/badge/3-%2334A853?style=for-the-badge&label=Colaboradores&labelColor=black"/>
   <img src="https://img.shields.io/github/last-commit/hakkita/EcoTrilhaIFSC?style=for-the-badge&labelColor=black&color=%2334A853"/>
 </p>
@@ -64,6 +64,10 @@ Os registros no aplicativo serão feitos exclusivamente por <b>Administradores</
 
 :heavy_check_mark: O sistema deve escanear QR Code e apresentar as informações do registro;  
 
+:heavy_check_mark: O sistema deve permitir que o usuário ative/desative a função "flash";
+
+:heavy_check_mark: O sistema deve permitir que o usuário bloqueie/desbloqueie a orientação de tela;
+
 :heavy_check_mark: O sistema deve aceitar códigos por extenso; 
 
 :heavy_check_mark: O sistema deve apresentar uma opção de transcrição por áudio;
@@ -78,14 +82,16 @@ Os registros no aplicativo serão feitos exclusivamente por <b>Administradores</
 
 
 ## Protótipos de Tela
-<p float="left">
- 
+<p float="left" align="center">
+<img src="https://github.com/Megwazi/assets/blob/main/1.png" width=190 />
+<img src="https://github.com/Megwazi/assets/blob/main/2.png" width=190 />
+<img src="https://github.com/Megwazi/assets/blob/main/3.png" width=190 />
+</p>
 
-<img src="https://github.com/Megwazi/assets/blob/main/Menu.png" width=190 />
-<img src="https://github.com/Megwazi/assets/blob/main/P%C3%A1gina%20QR.png" width=190 />
-<img src="https://github.com/Megwazi/assets/blob/main/Menu%20Lateral.png" width=190 />
-<img src="https://github.com/Megwazi/assets/blob/main/Pop-up%20C%C3%B3digo.png" width=190 />
-<img src="https://github.com/Megwazi/assets/blob/main/%C3%81udio%20fechado.png" width=190 />
+<p float="left" align="center">
+<img src="https://github.com/Megwazi/assets/blob/main/5.png" width=190 />
+<img src="https://github.com/Megwazi/assets/blob/main/7.png" width=190 />
+<img src="https://github.com/Megwazi/assets/blob/main/8.png" width=190 />
 </p>
 
 ## Como rodar a aplicação :arrow_forward:
